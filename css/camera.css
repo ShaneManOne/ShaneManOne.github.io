@@ -28,6 +28,7 @@
 
 .camera_wrap img {
 	max-width: 10000px;
+	height:200px;
 }
 
 .camera_fakehover {
