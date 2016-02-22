@@ -370,7 +370,7 @@ h1 {
   text-align: center;
   position: relative;
   text-transform: uppercase;
-  color: #ffffff;
+  color: #00FF7F;
   z-index: 999;
   font-size: 90px;
   line-height: 52px;
@@ -383,7 +383,7 @@ h1 a {
   transition: 0s ease;
 }
 h1 a:hover {
-  color: #ffffff;
+  color: #00FF7F;
 }
 h1 span {
   padding-top: 24px;
