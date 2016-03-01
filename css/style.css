@@ -1,4 +1,4 @@
-@import '../css/grid.css';
+div@import '../css/grid.css';
 @import '../css/font-awesome.css';
 @import url(//fonts.googleapis.com/css?family=Open+Sans:400);
 @import url(//fonts.googleapis.com/css?family=Open+Sans:700);
@@ -129,7 +129,7 @@ sss * {
 }
 body {
   position: relative;
-  background: #0080FF;
+  background: #FF6D6D;
   color: #00FF7F;
   font: 300 18px/24px 'Open Sans', sans-serif;
 }
