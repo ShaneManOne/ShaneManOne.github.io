@@ -98,7 +98,7 @@
   transition: all 0.2s ease;
 }
 #stuck_container .isStuck .menuBox {
-  margin: 0;
+  margin: 100;
   -webkit-transition: 0.4s ease;
   transition: 0.4s ease;
 }
