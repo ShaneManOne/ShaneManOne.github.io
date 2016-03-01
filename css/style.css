@@ -1,4 +1,4 @@
-div@import '../css/grid.css';
+@import '../css/grid.css';
 @import '../css/font-awesome.css';
 @import url(//fonts.googleapis.com/css?family=Open+Sans:400);
 @import url(//fonts.googleapis.com/css?family=Open+Sans:700);
