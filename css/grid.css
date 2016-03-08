@@ -182,7 +182,7 @@ body {
 .grid_11,
 .grid_12 {
   display:inline;
-  float: left;
+  float: right;
   position: relative;
   margin-left: 15px;
   margin-right: 15px;
